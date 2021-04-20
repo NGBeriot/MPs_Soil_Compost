@@ -1,5 +1,5 @@
 # MPs_Soil_Compost
-Raw data and script for generating the graphs published in : 
+Raw data and script for generating the graphs published in : van Schothorst, B.; Beriot, N.; Huerta Lwanga, E.; Geissen, V. Sources of Light Density Microplastic Related to Two Agricultural Practices: The Use of Compost and Plastic Mulch. Environments 2021, 8, 36. https://doi.org/10.3390/environments8040036 
 
 # Content description
  MPs_results.csv<br />
